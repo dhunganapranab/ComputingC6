@@ -1,0 +1,6 @@
+@ComputingC6_HostAddress = http://localhost:5187
+
+GET {{ComputingC6_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
